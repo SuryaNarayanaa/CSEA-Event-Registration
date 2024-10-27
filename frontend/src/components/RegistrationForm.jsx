@@ -209,8 +209,8 @@ const removeTeamMember = (index) => {
       required
     >
       <MenuItem value="" disabled>Select Department</MenuItem>
-      <MenuItem value="CSE1">CSE G1</MenuItem>
-      <MenuItem value="CSE2">CSE G2</MenuItem>
+      <MenuItem value="CSE G1">CSE G1</MenuItem>
+      <MenuItem value="CSE G2">CSE G2</MenuItem>
       <MenuItem value="CSE AIML">CSE AIML</MenuItem>
     </TextField>
   </Grid>
